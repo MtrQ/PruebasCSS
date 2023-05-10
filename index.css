@@ -4,14 +4,12 @@ body {
   background-repeat: no-repeat;
 }
 
-@media screen and (max-width: 828px) {
-  .bg-image {
-    background-image: url("FONDOmov.png");
-    background-size: contain;
-    height: 400vh;
-    background-repeat: no-repeat;
+@media screen and (max-width: 768px) {
+  body {
+    background-size: 100vw 100vh; /* establece el tamaño de la imagen de fondo */
   }
 }
+
 .audio-container {
   position: absolute;
   top: 18%;
