@@ -1,6 +1,6 @@
 body {
   background-image: url('FONDO.png');
-  background-size: cover;
+  background-size: 100% 14000%;
   background-repeat: no-repeat;
 }
 
