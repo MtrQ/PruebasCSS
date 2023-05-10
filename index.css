@@ -8,7 +8,7 @@ body {
   .bg-image {
     background-image: url("FONDOmov.png");
     background-size: contain;
-    height: 100vh;
+    height: 400vh;
     background-repeat: no-repeat;
   }
 }
