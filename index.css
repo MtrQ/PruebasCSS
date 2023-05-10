@@ -1,12 +1,12 @@
 body {
-  background-image: url('FONDO.png');
+  background-image: url("FONDO.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 @media screen and (max-width: 828px) {
   .bg-image {
-    background-image: url('FONDOmov.png');
+    background-image: url("FONDOmov.png");
     background-size: contain;
     height: 100vh;
     background-repeat: no-repeat;
