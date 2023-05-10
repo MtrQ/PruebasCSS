@@ -1,12 +1,12 @@
 body {
-  background-image: url("FONDO.png");
+  background-image: url('FONDO.png');
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 @media screen and (max-width: 768px) {
   body {
-    background-size: 100vw 1000vh; /* establece el tamaño de la imagen de fondo */
+    background-size: 100vw 100vh; /* establece el tamaño de la imagen de fondo */
   }
 }
 
