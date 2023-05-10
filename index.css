@@ -6,8 +6,9 @@ body {
 
 @media screen and (max-width: 828px) {
   .bg-image {
+    background-image: url('FONDOmov.png');
     background-size: contain;
-    height: auto;
+    height: 100vh;
     background-repeat: no-repeat;
   }
 }
