@@ -6,7 +6,7 @@ body {
 
 @media screen and (max-width: 768px) {
   body {
-    background-size: 100vw 100vh; /* establece el tamaño de la imagen de fondo */
+    background-size: 100vw 1000vh; /* establece el tamaño de la imagen de fondo */
   }
 }
 
